@@ -1,5 +1,0 @@
-https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css
-class="fas fa-search
-class="fas fa-hom
-class="fad fa-shopping-cart
-class="fas fa-user
